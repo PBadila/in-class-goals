@@ -1,0 +1,36 @@
+body{
+    width:800px;
+    margin:auto;
+    padding-top:100px;
+
+}
+
+.flexBox{
+    display:flex;
+    flex-direction: column;
+    width:75%;
+    background-color:#F5ECF9;
+    padding:10px;
+}
+
+h1{
+color:#72099b;
+font-family: 'Mynerve', cursive;
+text-align:center;
+
+}
+h2{
+    color:#B294BD;
+    font-family: 'Mynerve', cursive;
+}
+
+.lists{
+    font-size:1.3rem;
+}
+
+.image{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:50%;
+}
